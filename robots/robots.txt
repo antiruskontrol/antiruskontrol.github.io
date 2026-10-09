@@ -10,3 +10,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://antiruskontrol.github.io/WeatherInUkraine/sitemap.xml
+Sitemap: https://antiruskontrol.github.io/antirus-control/sitemap.xm
